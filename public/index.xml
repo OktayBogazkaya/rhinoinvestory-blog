@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 08:15:13 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hidden Winners of AI: Companies You Haven`t Thought About (But Should)</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Fri, 29 Aug 2025 08:15:13 +0200</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;Everyone&amp;rsquo;s talking about OpenAI, Google, and Microsoft when it comes to AI. But here&amp;rsquo;s the thing – while you&amp;rsquo;re watching the headlines, there are quietly profitable companies making bank behind the scenes. Think of it like the California Gold Rush: everyone focused on the miners, but the real winners? The guys selling shovels.&lt;/p&gt;
+&lt;h2 id=&#34;the-infrastructure-players-building-ais-foundation&#34;&gt;The Infrastructure Players: Building AI&amp;rsquo;s Foundation&lt;/h2&gt;
+&lt;h3 id=&#34;data-centers-are-the-new-real-estate&#34;&gt;Data Centers Are the New Real Estate&lt;/h3&gt;
+&lt;p&gt;Remember when people said &amp;ldquo;location, location, location&amp;rdquo; about real estate? Well, now it&amp;rsquo;s &amp;ldquo;compute, compute, compute&amp;rdquo; for AI. Companies like &lt;strong&gt;Digital Realty Trust&lt;/strong&gt; and &lt;strong&gt;Equinix&lt;/strong&gt; own the warehouses where AI magic happens.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
